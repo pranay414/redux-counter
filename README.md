@@ -1,0 +1,2 @@
+# Counter Example in Redux
+This is a basic counter example in Redux. You might question question me as to why I used Redux for such a simple application and the answer is very simple to `see why using Redux in some dead simple examples` complicates state management.
